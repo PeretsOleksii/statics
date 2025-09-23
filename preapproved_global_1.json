@@ -4,7 +4,7 @@
       {
         "manifestVersion": "1.17",
         "id": "1c4340de-2a85-40e5-8eb0-4f295368978b",
-        "version": "1.20.0",
+        "version": "1.21.0",
         "name": "Power BI",
         "accentColor": "#FFC312",
         "activities": {
@@ -47,6 +47,16 @@
           ]
         },
         "amsSellerAccountId": 10100100,
+        "bots": [
+          {
+            "id": "61cccd33-6c1a-4329-b091-504c7ddd882f",
+            "isNotificationOnly": true,
+            "scopes": [
+              "team",
+              "groupChat"
+            ]
+          }
+        ],
         "categories": [
           "Communication",
           "DataVisualizationAndBI",
