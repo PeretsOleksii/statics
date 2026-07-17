@@ -4,8 +4,20 @@
       "user": {
         "common": [
           {
+            "id": "0a1db42b-1524-4fce-b0e3-414cc7e6a6a5",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "80034978-c898-484f-b30c-ee23ac67cd42",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "4574ff7c-3529-44c3-b585-481241cca7f1",
             "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "a49e7478-2716-4560-af5f-0f56623a4f30",
+            "state": "HiddenFromAppStore"
           },
           {
             "id": "f3371bc4-0447-4820-b666-c05b0df18d03",
@@ -40,7 +52,19 @@
             "state": "InstalledAndPermanent"
           },
           {
+            "id": "592fa50f-40f2-46f4-a969-a6c75a9a32bb",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "8c460194-2edf-4717-a5cc-be51ae478720",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "7831feaf-c4c4-4669-ba64-ce4ea0b56d31",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "b6e5270c-f367-4a4e-88b1-12946c11a616",
             "state": "InstalledAndPermanent"
           },
           {
@@ -56,6 +80,10 @@
           },
           {
             "id": "2a84919f-59d8-4441-a975-2a8c2643b741",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "d948be58-6ace-4f5a-a31c-0df7cf105a21",
             "state": "InstalledAndPermanent"
           },
           {
@@ -96,10 +124,6 @@
           },
           {
             "id": "9f1a4ae0-6ae2-475d-973d-c89687d03753",
-            "state": "InstalledAndPermanent"
-          },
-          {
-            "id": "3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40",
             "state": "InstalledAndPermanent"
           },
           {
@@ -231,11 +255,15 @@
             "state": "PreConsented"
           },
           {
-            "id": "a6b63365-31a4-4f43-92ec-710b71557af9",
+            "id": "875394b0-da93-4f18-8a00-33dd8c4c4613",
+            "state": "PreConsented"
+          },          
+          {
+            "id": "4046041d-19bb-4afe-a8d6-f464d894f139",
             "state": "PreConsented"
           },
           {
-            "id": "1c4340de-2a85-40e5-8eb0-4f295368978b",
+            "id": "a6b63365-31a4-4f43-92ec-710b71557af9",
             "state": "PreConsented"
           },
           {
@@ -382,6 +410,34 @@
           },
           {
             "id": "683f3525-d193-4a67-8d91-22093beab1ca",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "1c4340de-2a85-40e5-8eb0-4f295368978b",
+            "state": "Installed"
+          },
+          {
+            "id": "69e1409d-f9f8-4199-98e1-654df1626537",
+            "state": "InstalledAndDeprecated"
+          },
+          {
+            "id": "feda49f8-b9f2-4985-90f0-dd88a8f80ee1",
+            "state": "PreConsented"
+          },
+          {
+            "id": "652677fc-e8b3-4aed-a385-917f16bd1dc3",
+            "state": "PreConsented"
+          },
+          {
+            "id": "6eafef58-f660-4a58-8457-36722c14683d",
+            "state": "PreConsented"
+          },
+          {
+            "id": "5ae80e49-7ada-461a-a6bd-c5df2e0cdb06",
+            "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "d4288b02-5a16-4234-bd1a-daf1cabdf71d",
             "state": "InstalledAndPermanent"
           }
         ],
@@ -561,6 +617,10 @@
             "state": "InstalledAndPermanent"
           },
           {
+            "id": "d948be58-6ace-4f5a-a31c-0df7cf105a21",
+            "state": "InstalledAndPermanent"
+          },
+          {
             "id": "5db56dd0-534d-467b-aeda-d622bee2574a",
             "state": "InstalledAndPermanent",
             "authorization": {
@@ -689,6 +749,20 @@
           {
             "id": "eb62d082-2c0a-4672-9252-e8e456f192b1",
             "state": "InstalledAndPermanent"
+          },
+          {
+            "id": "b6e5270c-f367-4a4e-88b1-12946c11a616",
+            "state": "InstalledAndPermanent",
+            "authorization": {
+              "permissions": {
+                "resourceSpecific": [
+                  {
+                    "name": "ChannelMeeting.ReadBasic.Group",
+                    "type": "Delegated"
+                  }
+                ]
+              }
+            }
           },
           {
             "id": "8e14e873-35ba-4720-b787-0bed94370b17",
@@ -1006,6 +1080,44 @@
           },
           {
             "id": "4a6520d6-94a8-4730-9184-24997b9b3401",
+            "state": "InstalledAndPermanent",
+            "authorization": {
+              "permissions": {
+                "resourceSpecific": [
+                  {
+                    "name": "MeetingStage.Write.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "ChannelMeetingStage.Write.Group",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "LiveShareSession.ReadWrite.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "LiveShareSession.ReadWrite.Group",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "OnlineMeetingParticipant.Read.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "OnlineMeeting.ReadBasic.Chat",
+                    "type": "Delegated"
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "id": "69e1409d-f9f8-4199-98e1-654df1626537",
+            "state": "InstalledAndDeprecated"
+          },
+          {
+            "id": "5ae80e49-7ada-461a-a6bd-c5df2e0cdb06",
             "state": "InstalledAndPermanent"
           }
         ],
@@ -1409,6 +1521,14 @@
             "state": "PreConsented"
           },
           {
+            "id": "875394b0-da93-4f18-8a00-33dd8c4c4613",
+            "state": "PreConsented"
+          },          
+          {
+            "id": "4046041d-19bb-4afe-a8d6-f464d894f139",
+            "state": "PreConsented"
+          },
+          {
             "id": "0d820ecd-def2-4297-adad-78056cde7c78",
             "state": "Installed"
           },
@@ -1454,11 +1574,67 @@
           },
           {
             "id": "4a6520d6-94a8-4730-9184-24997b9b3401",
-            "state": "InstalledAndPermanent"
+            "state": "InstalledAndPermanent",
+            "authorization": {
+              "permissions": {
+                "resourceSpecific": [
+                  {
+                    "name": "MeetingStage.Write.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "ChannelMeetingStage.Write.Group",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "LiveShareSession.ReadWrite.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "LiveShareSession.ReadWrite.Group",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "OnlineMeetingParticipant.Read.Chat",
+                    "type": "Delegated"
+                  },
+                  {
+                    "name": "OnlineMeeting.ReadBasic.Chat",
+                    "type": "Delegated"
+                  }
+                ]
+              }
+            }
           },
           {
             "id": "683f3525-d193-4a67-8d91-22093beab1ca",
             "state": "InstalledAndPermanent"
+          }
+        ],
+        "agenticUser":[
+           {
+            "id": "a49e7478-2716-4560-af5f-0f56623a4f30",
+            "state": "InstalledAndPermanent",
+             "tabMetadata": {
+              "isPrepinnned": true,
+              "order": 1
+            }
+          }
+        ],
+        "meeting": [
+          {
+            "id": "b6e5270c-f367-4a4e-88b1-12946c11a616",
+            "state": "InstalledAndPermanent",
+            "authorization": {
+              "permissions": {
+                "resourceSpecific": [
+                  {
+                    "name": "OnlineMeeting.ReadBasic.Chat",
+                    "type": "Delegated"
+                  }
+                ]
+              }
+            }
           }
         ]
       }
