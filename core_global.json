@@ -6721,47 +6721,6 @@
         "termsOfUseUrl": "https://www.microsoft.com/servicesagreement"
       },
       {
-        "manifestVersion": "1.16",
-        "id": "3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40",
-        "version": "1.0.6",
-        "name": "Chat and Channels",
-        "accentColor": "",
-        "categories": [
-          "Communication"
-        ],
-        "defaultGroupCapability": {},
-        "developerName": "Microsoft Corporation",
-        "developerUrl": "https://www.microsoft.com",
-        "isAppIOSAcquirable": true,
-        "isBlockable": false,
-        "isCoreApp": true,
-        "isFullScreen": false,
-        "isFullTrust": false,
-        "isPinnable": true,
-        "isPreinstallable": true,
-        "isTeamsOwned": true,
-        "isTenantConfigurable": false,
-        "languageTag": "en-us",
-        "largeImageUrl": "https://statics.teams.cdn.office.net/app-assets/core_global/3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40/3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40_largeImage.png?v=1.0.6",
-        "longDescription": "From Chat, get to what matters faster with your chats, teams, and channels in one list. Create custom sections, sort them in multiple ways, and organize your view to be your most productive.",
-        "privacyUrl": "https://privacy.microsoft.com/privacystatement",
-        "publisherType": "FirstParty",
-        "shortDescription": "Stay on top of your chats, teams, and channels in one place.",
-        "showLoadingIndicator": true,
-        "smallImageUrl": "https://statics.teams.cdn.office.net/app-assets/core_global/3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40/3b64df9d-7e97-4d9c-ac5c-2e0a5d8e6f40_smallImage.png?v=1.0.6",
-        "supportedTenantRegions": [
-          "GCC",
-          "GCCH",
-          "DOD",
-          "AG08",
-          "AG09"
-        ],
-        "termsOfUseUrl": "https://www.microsoft.com/servicesagreement",
-        "supportedLanguages": [
-          "en-us"
-        ]
-      },
-      {
         "manifestVersion": "1.20",
         "id": "5ae80e49-7ada-461a-a6bd-c5df2e0cdb06",
         "version": "1.0.11",
